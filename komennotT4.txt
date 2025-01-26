@@ -1,0 +1,3 @@
+Seuraavat komennot palauttaa reitittimen oletusasetuksiin:
+erase startup-config
+reload
